@@ -2,7 +2,7 @@
 
 Objectives: 
 
-	# Develop a prototyoe Blockpass Identity Lab Website to increase online representation. Involves the expansion of their social media presence to grow the business and plan events. 
+	# Develop a prototype Blockpass Identity Lab Website to increase online representation. Involves the expansion of their social media presence to grow the business and plan events. 
 
 Requirements: 
 
